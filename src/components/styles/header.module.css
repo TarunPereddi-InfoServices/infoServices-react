@@ -1,0 +1,23 @@
+/* header.module.css */
+.header {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+.box {
+    border-radius: 20px;
+    width: 85%;
+    background: var(--header-background-color);
+    color: var(--text-color);
+}
+
+.logo {
+    
+}
+
+.nav {
+    
+}
